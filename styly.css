@@ -6,5 +6,9 @@ h1{
 }
 p{
 font-size: 24px;
-color: #red;
+color: red;
+}
+
+a{
+	color: aliceblue;
 }
